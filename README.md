@@ -1,4 +1,5 @@
 # PCRF with Pandas
 This repo will discuss how python can query pandas to analyze saved, all expanded packets saved, text files from Wireshark 
+![pcaptxt](https://user-images.githubusercontent.com/47313728/149603698-df894d38-7379-4f5b-8a78-753958999416.PNG)
 
 ![PCRF Architecture](https://user-images.githubusercontent.com/47313728/149600160-c0372717-eda8-41dd-89f7-c55c13923044.PNG)
