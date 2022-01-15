@@ -1,5 +1,5 @@
 # PCRF with Pandas
-This repo will discuss how python can query pandas to analyze saved, all expanded packets saved, text files from Wireshark
+This repo will discuss how python can query pandas to analyze saved text files from Wireshark
 
 The lower part of the poped-up window would look like below when you want to Export Packet Disections As Plain Text.. 
 from the File pull down menu in Wireshark
