@@ -8,7 +8,7 @@ The lower part of the poped-up window would look:
 
 ![PCRF Architecture](https://user-images.githubusercontent.com/47313728/149600160-c0372717-eda8-41dd-89f7-c55c13923044.PNG)
 
-Let have a pcrf**if**.txt for Gx **i**nter**f**ace and check **PwP.py** to find the AVPs which are not Mandatory but you use in **EPC** network
+Let have a pcrf**if**.txt from a pcap of Gx **i**nter**f**ace and query the Pandas to find the number of AVPs which are not Mandatory but we use in **EPC** network
 
 Let's use the following lines to query
 
