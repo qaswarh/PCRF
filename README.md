@@ -14,6 +14,6 @@ Let's use the following lines to query
 
 ![GxNMA](https://user-images.githubusercontent.com/47313728/153114878-fe9ea3b9-5d67-465c-8610-fe9495319e67.PNG)
 
-And the result from a small file:
+And the result from a 403 KB file is:
 
 ![NMAGx](https://user-images.githubusercontent.com/47313728/153115229-8e842dd1-7b65-4359-bfda-dbe56b4716a1.PNG)
