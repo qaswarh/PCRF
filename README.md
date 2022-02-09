@@ -12,3 +12,4 @@ Let have a pcrf**if**.txt for Gx **i**nter**f**ace and check **PwP.py** to find 
 
 Let's use the following lines to query
 
+![GxNMA](https://user-images.githubusercontent.com/47313728/153114878-fe9ea3b9-5d67-465c-8610-fe9495319e67.PNG)
